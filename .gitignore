@@ -34,3 +34,5 @@ data/processed/pricing_simulation_data.parquet
 
 # Raw datasets
 data/raw/
+
+data/processed/pricing_features.parquet

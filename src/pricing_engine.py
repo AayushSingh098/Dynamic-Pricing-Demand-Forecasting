@@ -9,7 +9,7 @@ import pandas as pd
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 ELASTICITY_PATH = BASE_DIR / "data" / "processed" / "elasticity_lookup.parquet"
-PRICING_DATA_PATH = BASE_DIR / "data" / "processed" / "pricing_features.parquet"
+PRICING_DATA_PATH = BASE_DIR / "data" / "processed" / "pricing_features_deployment.parquet"
 MODEL_PATH = BASE_DIR / "models" / "demand_forecast_lgbm.pkl"
 
 
