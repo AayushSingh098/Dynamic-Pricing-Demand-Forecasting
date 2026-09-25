@@ -6,6 +6,7 @@ An end-to-end data science project that forecasts product demand and evaluates a
 [![LightGBM](https://img.shields.io/badge/Model-LightGBM-9cf)](https://lightgbm.readthedocs.io/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B)](https://streamlit.io/)
 
+🚀 **Live Demo:** https://dynamic-pricing-demand-forecasting.streamlit.app/
 ---
 
 ## 🎯 Project Objective
